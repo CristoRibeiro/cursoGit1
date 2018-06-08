@@ -1,0 +1,236 @@
+[33mcommit 7bd96ee9ca726b8964b203eb47b75599a4a3313a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Cristiano Ribeiro <cristianosrsilva@gmail.com>
+Date:   Tue Jun 5 23:20:16 2018 -0300
+
+    ds
+
+[1mdiff --git a/readme.txt b/readme.txt[m
+[1mindex f821eb2..406b20e 100644[m
+[1m--- a/readme.txt[m
+[1m+++ b/readme.txt[m
+[36m@@ -1 +1 @@[m
+[31m-eu sou o readme[m
+\ No newline at end of file[m
+[32m+[m[32meu sou o readme.[m
+\ No newline at end of file[m
+
+[33mcommit 91a14e4017efc189b579c9c7d07cb5890e5582a6[m
+Author: Cristiano Ribeiro <cristianosrsilva@gmail.com>
+Date:   Tue Jun 5 23:11:35 2018 -0300
+
+    add interativo
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 9f5e7f4..2d9f10a 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -11,8 +11,7 @@[m
+         <ul>[m
+             <li>Funciona de maneira distribuída</li>[m
+             <li>Permite a edição concorrente de arquivos do projeto</li>[m
+[31m-            <li>Não depende de uma conexão ativa com um servidor</li>[m
+[31m-            <li>Segurança - add o readme</li>[m
+[32m+[m[32m            <li>Não depende de uma conexão ativa com um servidor</li>[m[41m            [m
+         </ul>[m
+     </body>         [m
+ </html>[m
+\ No newline at end of file[m
+
+[33mcommit 1f840448b43afbed01d7d381232eb9ddc623efb0[m
+Author: Cristiano Ribeiro <cristianosrsilva@gmail.com>
+Date:   Tue Jun 5 23:02:13 2018 -0300
+
+    alteração readme e index
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 19de103..9f5e7f4 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -12,7 +12,7 @@[m
+             <li>Funciona de maneira distribuída</li>[m
+             <li>Permite a edição concorrente de arquivos do projeto</li>[m
+             <li>Não depende de uma conexão ativa com um servidor</li>[m
+[31m-            <li>Segurança</li>[m
+[32m+[m[32m            <li>Segurança - add o readme</li>[m
+         </ul>[m
+     </body>         [m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/readme.txt b/readme.txt[m
+[1mindex e69de29..f821eb2 100644[m
+[1m--- a/readme.txt[m
+[1m+++ b/readme.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32meu sou o readme[m
+\ No newline at end of file[m
+
+[33mcommit e80a66666809f62df7e53a6ce9cbb1ab1dfca8dc[m
+Author: Cristiano Ribeiro <cristianosrsilva@gmail.com>
+Date:   Tue Jun 5 23:00:22 2018 -0300
+
+    readme add
+
+[1mdiff --git a/readme.txt b/readme.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 44d72383ad97e371d0d203306e7f324e3d7ddd01[m
+Author: Cristiano Ribeiro <cristianosrsilva@gmail.com>
+Date:   Tue Jun 5 22:51:27 2018 -0300
+
+    chamado 5
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex ae7aff3..19de103 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -12,6 +12,7 @@[m
+             <li>Funciona de maneira distribuída</li>[m
+             <li>Permite a edição concorrente de arquivos do projeto</li>[m
+             <li>Não depende de uma conexão ativa com um servidor</li>[m
+[32m+[m[32m            <li>Segurança</li>[m
+         </ul>[m
+     </body>         [m
+ </html>[m
+\ No newline at end of file[m
+
+[33mcommit a52b7df7b93fe5c6ff286be50482918cc0ae869e[m
+Author: Cristiano Ribeiro <cristianosrsilva@gmail.com>
+Date:   Tue Jun 5 22:50:53 2018 -0300
+
+    chamado 4
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex b5df3f5..ae7aff3 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -2,8 +2,8 @@[m
+     <head>[m
+     </head>         [m
+     <body>          [m
+[31m-        <h1>Git</h1>[m
+[31m-        <h2>Trabalhando em Equipe com Controle e Segurança </h2>[m
+[32m+[m[32m        <h1>Git - Curso</h1>[m
+[32m+[m[32m        <h2>Trabalhando em Equipe com Controle e Segurança</h2>[m
+ [m
+         <p>Um curso que explora os benefícios de utilizar o Git como ferramenta de controle de versão para projetos em qualquer linguagem, em qualquer plataforma.</p>[m
+ [m
+
+[33mcommit 03e9ed17bf585c4cfc00f2396e0e6ae646dcbe20[m
+Author: Cristiano Ribeiro <cristianosrsilva@gmail.com>
+Date:   Tue Jun 5 22:48:47 2018 -0300
+
+    chamado 2
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 9a873bf..b5df3f5 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -3,7 +3,7 @@[m
+     </head>         [m
+     <body>          [m
+         <h1>Git</h1>[m
+[31m-        <h2>Trabalhando em Equipe com Controle e Segurança</h2>[m
+[32m+[m[32m        <h2>Trabalhando em Equipe com Controle e Segurança </h2>[m
+ [m
+         <p>Um curso que explora os benefícios de utilizar o Git como ferramenta de controle de versão para projetos em qualquer linguagem, em qualquer plataforma.</p>[m
+ [m
+
+[33mcommit e6c9d69e768af8a5944f49b52042578e042e2cb1[m
+Author: Cristiano Ribeiro <cristianosrsilva@gmail.com>
+Date:   Tue Jun 5 22:42:26 2018 -0300
+
+    chamado 1
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 55286f9..9a873bf 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,7 +1,17 @@[m
+[31m-<Html>[m
+[31m-    <head>        [m
+[31m-    </head>[m
+[31m-    <body>[m
+[31m-        <h1>Projeto Curso GIT</h1>        [m
+[31m-    </body>[m
+[31m-</Html>[m
+\ No newline at end of file[m
+[32m+[m[32m<html>[m
+[32m+[m[32m    <head>[m
+[32m+[m[32m    </head>[m[41m         [m
+[32m+[m[32m    <body>[m[41m          [m
+[32m+[m[32m        <h1>Git</h1>[m
+[32m+[m[32m        <h2>Trabalhando em Equipe com Controle e Segurança</h2>[m
+[32m+[m
+[32m+[m[32m        <p>Um curso que explora os benefícios de utilizar o Git como ferramenta de controle de versão para projetos em qualquer linguagem, em qualquer plataforma.</p>[m
+[32m+[m
+[32m+[m[32m        <h3>Principais benefícios:</h3>[m
+[32m+[m[32m        <ul>[m
+[32m+[m[32m            <li>Funciona de maneira distribuída</li>[m
+[32m+[m[32m            <li>Permite a edição concorrente de arquivos do projeto</li>[m
+[32m+[m[32m            <li>Não depende de uma conexão ativa com um servidor</li>[m
+[32m+[m[32m        </ul>[m
+[32m+[m[32m    </body>[m[41m         [m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+
+[33mcommit acd96d28bacccdc8f11525d7ed10d5be714d2d87[m
+Author: Cristiano Ribeiro <cristianosrsilva@gmail.com>
+Date:   Tue Jun 5 22:34:48 2018 -0300
+
+    teste
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 719c219..55286f9 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -2,6 +2,6 @@[m
+     <head>        [m
+     </head>[m
+     <body>[m
+[31m-        <h1>Projeto Curso GIT</h1>[m
+[32m+[m[32m        <h1>Projeto Curso GIT</h1>[m[41m        [m
+     </body>[m
+ </Html>[m
+\ No newline at end of file[m
+
+[33mcommit bf5e280097dcde5b341b3505124f467ea661163d[m
+Author: =Cristiano Ribeiro <=cristianosrsilva@gmail.com>
+Date:   Tue Jun 5 22:06:39 2018 -0300
+
+    Criação Titulo
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 46bccb6..719c219 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -2,6 +2,6 @@[m
+     <head>        [m
+     </head>[m
+     <body>[m
+[31m-        [m
+[32m+[m[32m        <h1>Projeto Curso GIT</h1>[m
+     </body>[m
+ </Html>[m
+\ No newline at end of file[m
+
+[33mcommit 7b1a9ab4b3eff620b01ee3feb22becb0a2e96a78[m
+Author: Cristiano Ribeiro <cristianosrsilva@gmail.com>
+Date:   Tue Jun 5 22:00:37 2018 -0300
+
+    Novo arquivo
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..46bccb6[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,7 @@[m
+[32m+[m[32m<Html>[m
+[32m+[m[32m    <head>[m[41m        [m
+[32m+[m[32m    </head>[m
+[32m+[m[32m    <body>[m
+[32m+[m[41m        [m
+[32m+[m[32m    </body>[m
+[32m+[m[32m</Html>[m
+\ No newline at end of file[m
